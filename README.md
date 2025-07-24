@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shubham-Bixt
+- 👋 Hi, I’m @Shubham Bisht
 - 👀 I’m interested in Android DEV
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/shubham-bisht-b62299250
+- 📫 How to reach me https://www.linkedin.com/in/shubham-bisht-632849374
 - 😄 Pronouns: he/him
 
 
